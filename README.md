@@ -26,5 +26,5 @@ Player One controls are:
 # Screenshot 
 
 
-![alt text](
+![alt text](https://github.com/makkhay/TankGame/blob/master/game.png
 )
